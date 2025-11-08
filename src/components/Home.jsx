@@ -70,7 +70,7 @@ export default function Home() {
           <a href="#contact" className="hover:text-gray-300 font-semibold">CONTACT</a>
           {/* Resume Download Button */}
           <a
-            href="/Deepak_Singla_Resume.pdf"
+            href="/Images/Deepak0414.pdf"
             download
             className="bg-white text-black px-4 py-2 rounded-lg font-semibold hover:bg-gray-200 transition"
           >
