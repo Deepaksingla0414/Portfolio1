@@ -1,7 +1,7 @@
 
 import Home from "./components/Home.jsx";
 import About from "./components/About";
-// import Skills from "./components/Skills";
+import Skills from "./components/Skills";
 
 // import Contact from "./components/Contact";
 
@@ -20,8 +20,8 @@ export default function App() {
       <section id="Slider2"><Slider2/></section>
 
       <section id="about"><About /></section>
-      {/* <section id="skills"><Skills /></section>
-      <section id="Project"><Projects/></section>
+      <section id="skills"><Skills /></section>
+      {/* <section id="Project"><Projects/></section>
 
       <section id="contact"><Contact /></section> */}
       
