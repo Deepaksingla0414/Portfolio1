@@ -3,7 +3,7 @@ import Home from "./components/Home.jsx";
 import About from "./components/About";
 import Skills from "./components/Skills";
 
-// import Contact from "./components/Contact";
+import Contact from "./components/Contact";
 
 import Slider from "./components/Slider";
 import Slider2 from "./components/Slider2";
@@ -22,9 +22,9 @@ export default function App() {
       <section id="about"><About /></section>
       <section id="skills"><Skills /></section>
       <section id="Project"><Projects/></section>
-{/* 
+
       <section id="contact"><Contact /></section>
-       */}
+      
      
   
     </div>
