@@ -7,7 +7,7 @@ import Skills from "./components/Skills";
 
 import Slider from "./components/Slider";
 import Slider2 from "./components/Slider2";
-// import Projects from "./components/Project.jsx";
+import Projects from "./components/Project.jsx";
 
 
 
@@ -21,10 +21,10 @@ export default function App() {
 
       <section id="about"><About /></section>
       <section id="skills"><Skills /></section>
-      {/* <section id="Project"><Projects/></section>
-
-      <section id="contact"><Contact /></section> */}
-      
+      <section id="Project"><Projects/></section>
+{/* 
+      <section id="contact"><Contact /></section>
+       */}
      
   
     </div>
